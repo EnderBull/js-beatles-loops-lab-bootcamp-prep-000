@@ -39,6 +39,7 @@ function iLoveTheBeatles(n){
   n--
 } while (n < 15 && n >=0);
 
+console.log(myArray)
 return myArray
 }
 
